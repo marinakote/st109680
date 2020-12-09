@@ -1,5 +1,3 @@
-In Subversion section of the lesson we used AddUser.txt file, which contain the following automated script:
-
 ' *****************************************************************************
 
 '' FILENAME: adduser
@@ -26,3 +24,4 @@ In Subversion section of the lesson we used AddUser.txt file, which contain the 
 AddUser "jsmith", "password", "John", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
 
 AddUser "rnmith", "password", "Nancy", "Smith", "ABC", "416-456-0000", "jsmith@sample.com"
+ 
